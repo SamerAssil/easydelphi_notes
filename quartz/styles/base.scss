@@ -383,6 +383,7 @@ figure[data-rehype-pretty-code-figure] {
   position: relative;
   line-height: 1.6rem;
   position: relative;
+  direction: rtl;
 
   & > [data-rehype-pretty-code-title] {
     font-family: var(--codeFont);
