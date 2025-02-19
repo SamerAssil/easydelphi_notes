@@ -1,16 +1,10 @@
 ---
-title: "اضافة body إلى طلب TNetHttpClient"
-date: 2023-04-25T13:53:44+03:00
+title: اضافة body إلى طلب TNetHttpClient
 draft: false
-author: "سامر أصيل"
-emoji: 💡
 tags:
-- fmx
-- vcl
-- TNetHttpClient
-
-
-summary: "كيف يتم اضافة الجزء Body إلى TNetHttpClient request"
+  - Compiler
+  - Delphi
+  - dcu
 ---
 
 نوع الـ Body يجب ان يكون TStringList حتى يتم قبوله كـ Body للطلب
