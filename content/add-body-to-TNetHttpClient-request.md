@@ -2,9 +2,9 @@
 title: اضافة body إلى طلب TNetHttpClient
 draft: false
 tags:
-  - Compiler
-  - Delphi
-  - dcu
+  - fmx
+  - vcl
+  - TNetHttpClient
 ---
 
 نوع الـ Body يجب ان يكون TStringList حتى يتم قبوله كـ Body للطلب
