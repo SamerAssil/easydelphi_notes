@@ -11,7 +11,7 @@ tags:
 
 مثال: 
 
-```Pascal
+```pascal
 var
 	StrL: TStringList;
 
